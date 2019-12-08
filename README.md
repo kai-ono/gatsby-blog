@@ -1,3 +1,8 @@
+# チュートリアルを写経  
+https://blog.bitsrc.io/how-to-build-a-blog-with-gatsby-and-boostrap-d1270212b3dc
+<br>
+<br>
+<br>
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
